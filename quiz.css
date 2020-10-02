@@ -1,9 +1,9 @@
 body {
-	margin-left: 0px;
-	margin-top: 0px;
+	margin-left: 1px;
+	margin-top: 2px;
 }
 .style1 {
-	color: #FFFFFF;
+	color: #FFFFFFF;
 	font-weight: bold;
 }
 .style2 {
@@ -17,7 +17,7 @@ body {
 .style5 {color: #990033}
 .style6 {color: #ECE9D8}
 .style7 {
-	color: #993300;
+	color: #993200;
 	font-weight: bold;
 }
 .style8 {
