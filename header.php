@@ -1,14 +1,14 @@
 <style type="text/css">
 <!--
 body {
-	margin-left: 0px;
-	margin-top: 0px;
+	margin-left: 2px;
+	margin-top: 6px;
 }
 -->
 </style>
-<table border="0" width="100%" cellspacing="0" cellpadding="0" background="image/topbkg.jpg">
+<table border="0" width="200%" cellspacing="0" cellpadding="0" background="image/topbkg.jpg">
   <tr>
-    <td width="90%" valign="top">
+    <td width="200%" valign="left">
 <!--You can modify the text, color, size, number of loops and more on the flash header by editing the text file (fence.txt) included in the zip file.-->
 <div align="left"><object classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000
 codebase=http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,2,0
@@ -28,8 +28,8 @@ bgcolor=#000000
 scale= showall>
 </embed>
 </object></div></td>
-    <td width="10%">
-     <img border="0" src="image/topright.jpg" width="203" height="68" align="right"></td>
+    <td width="100%">
+     <img border="0" src="image/topright.jpg" width="23" height="680" align="center"></td>
   </tr>
 </table>
 <table border="0" width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000" background="img/blackbar.jpg">
